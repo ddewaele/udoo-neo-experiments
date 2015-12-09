@@ -1,0 +1,4 @@
+install pySerial
+
+sudo apt-get install python-serial
+
