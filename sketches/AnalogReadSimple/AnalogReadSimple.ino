@@ -7,5 +7,5 @@ void setup()
 void loop()
 {
   Serial.println(analogRead(0));
-  delay(500);
+  delay(100);
 }
